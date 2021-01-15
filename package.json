@@ -1,0 +1,27 @@
+{
+  "name": "moneycontrolz",
+  "version": "1.0.0",
+  "description": "app to track indian stocks",
+  "main": "index.js",
+  "dependencies": {
+    "package-lock": "^1.0.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/85599/moneycontrolz.git"
+  },
+  "keywords": [
+    "Indian",
+    "stocks"
+  ],
+  "author": "khushal <khushaljain023@gmail.com> (https://github.com/85599/thar-stocks.git)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/85599/moneycontrolz/issues"
+  },
+  "homepage": "https://github.com/85599/moneycontrolz#readme"
+}
